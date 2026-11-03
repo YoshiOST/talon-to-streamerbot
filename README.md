@@ -1,3 +1,11 @@
+## Setup
+get [talon](https://talonvoice.com/) 
+
+get [streamerbot](https://streamer.bot/)
+
+turn on that http server
+server/clients>http server> toggle that server status to start server
+
 Install these into the
 ```bash
 %APPDATA%\Talon\user\
