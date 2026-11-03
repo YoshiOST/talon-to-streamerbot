@@ -6,7 +6,7 @@ get [streamerbot](https://streamer.bot/)
 turn on that http server
 server/clients>http server> toggle that server status to start server
 
-Install these into the
+Install ```talon_streamerbot.py``` and ```talon_streametbot.talon``` into the
 ```bash
 %APPDATA%\Talon\user\
 ```
